@@ -57,16 +57,11 @@ Sorted by Diversity| Sorted by Reduced Lunch
 ----|----
 [![CA chart showing a downward trend comparing the percent of the student body who are not white and the number of arts courses on average offered per school in a district.](https://user-images.githubusercontent.com/85646498/183481432-7b8eda01-dbe6-4a27-b053-7c4508be932c.png)](https://www.datawrapper.de/_/4JryB/)  |  [![A chart showing a downward trend comparing the percent of free and reduced meals and the number of arts courses on average offered per school in a district.](https://user-images.githubusercontent.com/85646498/183481428-21e0fe56-01c3-43a6-b4d2-e6d2ead5b8a1.png)](https://www.datawrapper.de/_/SlSvZ/)
 
-# [ADD TEXT BB]
-
 ## Contacts:
 Austin Beutner: 
 * Former Superintendent of Los Angeles Unified School District
-* is the proponent of the Arts and Music in Schools measure [WHIHC IS WHAT/ WILL WHAT/ WHY IS HE A GOOD SOURCE]https://calmatters.org/commentary/2022/02/arts-education-is-woefully-underfunded-in-california-schools/
-
-[CONTACT #2]:
-* text
-* text
+* is the proponent of the Arts and Music in Schools measure 
+* https://calmatters.org/commentary/2022/02/arts-education-is-woefully-underfunded-in-california-schools/
 
 ## Story Pitch:
 
