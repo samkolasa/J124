@@ -4,6 +4,8 @@ Data is compiled by districts in LA County and include information for all level
 * Number of Classes by Subject by District: downloaded from the [California Department of Education Data Reporting Office](https://dq.cde.ca.gov/dataquest/CourseReports/ClassesbySubject.aspx?Filter=A&TheYear=2018-19&cTopic=Course&cChoice=CoNumClas1&cLevel=County&cdscode=19000000000000&AP=&IB=), filtered for only districts in LA County and all courses. 
 * Course Enrollment by Subject by County: downloaded from the [California Department of Education Data Reporting Office](https://dq.cde.ca.gov/dataquest/CourseReports/CourseResults.aspx?Filter=A&TheYear=2018-19&cTopic=Course&cChoice=CrseEnroll&cLevel=County&cdscode=19000000000000&Subject=Y&AP=Y&IB=Y&CTE=Y&lNotAll=True), filtered by all assignments by subject area and the "Arts, Media, and Entertainment" teaching assingment by career technical education.
 * Map of LA County School Districts from the County of [Los Angeles Enterprise Geographic Information Systems](https://egis-lacounty.hub.arcgis.com/datasets/lacounty::school-district-boundaries-2/explore?location=34.220143%2C-117.957018%2C8.05)
+* 2018-19 Enrollment by Ethnicity for LA County from the [California Department of Education Data Reporting Office](https://dq.cde.ca.gov/dataquest/dqcensus/EnrEthLevels.aspx?cds=19&agglevel=county&year=2018-19)
+* 2018-2019 Percent Free and Reduced Priced Meals 2018-2019 for LA County Districts from the [California Department of Education Data Reporting Office](https://dq.cde.ca.gov/dataquest/Cbeds2.asp?FreeLunch=on&cChoice=CoProf2&cYear=2018-19&TheCounty=19%2CLOS%5EANGELES&cLevel=County&cTopic=FRPM&myTimeFrame=S&submit1=Submit)
  
 
 Leading Questions:
@@ -44,5 +46,28 @@ I wanted to see if there was a geographical relationship to the data from the pi
 Gorman Joint School District had almost three times as many arts classes per school than the second highest district, and looking at the data all of the classes were attached to only one school. I chose to do courses per school to try to equalize the data and look at school investment in arts without the bias of the size of the district. However, the top district had only one school responsible for the arts courses. The public charter offers online enrollment, which is how it has so many teachers and courses, not to mention a student body large enough to support the over three hundred arts courses offered during the 2018-2019 school year. Of the 1,374 students enrolled in the Gorman school district in 2018, only 82 were enrolled in the local K-8 Gorman Elementary according to the [2018-19 Enrollment by Grade report from the California Department of Education](https://dq.cde.ca.gov/dataquest/dqcensus/enrgrdlevels.aspx?cds=1964584&agglevel=District&year=2018-19&ro=y).
 
 ## Part III: Are there demographic trends that correlate to courses offered?
+#### Question 5:
+I didn't see any clear trends geographically based on the level of arts education present on the map. Most of the districts fell within a moderate range, and the districts where numbers dropped or peaked seemed to be clustered together. I wanted to see if there were less visibile distinctions between these areas, so I downloaded the 2018-2019 LA County Free and Reduced Price Lunch data and Enrollment by Ethnicity data. The Reduced Lunch data was written as a number and percent in the same cell so I used a SPLIT formula with the delimiter "()" so I could work with the values as numbers. I was interested in the percent of meals free or reduced and the ethnic demographic for districts, so I used VLOOKUP to join the free and reduced lunch column and average courses per school column into the demographic sheet. Then I sorted by the same ascending and descending patterns for classes as before to see the breakdown for the same highest and lowest districts.
 
-I didn't see any clear trends geographically based on the level of arts education present on the map. Most of the districts fell within a moderate range, and the districts where numbers dropped or peaked seemed to be clustered together.
+Districts with Fewest Courses (Ascending)| Districts with Most Courses (Descending)
+----|----
+![A table showing the five districts with the fewest average arts courses per school in ascending order. ](https://user-images.githubusercontent.com/85646498/183471124-f0f14d63-0c37-4602-9ddc-74aadaa9b0f1.png) | ![A table showing the five districts with the most average arts courses per school in descending order. ](https://user-images.githubusercontent.com/85646498/183471868-575dfcda-3b3c-42e7-81b0-6c62ff5b5553.png)
+
+Sorted by Diversity| Sorted by Reduced Lunch
+----|----
+[![CA chart showing a downward trend comparing the percent of the student body who are not white and the number of arts courses on average offered per school in a district.](https://user-images.githubusercontent.com/85646498/183481432-7b8eda01-dbe6-4a27-b053-7c4508be932c.png)](https://www.datawrapper.de/_/4JryB/)  |  [![A chart showing a downward trend comparing the percent of free and reduced meals and the number of arts courses on average offered per school in a district.](https://user-images.githubusercontent.com/85646498/183481428-21e0fe56-01c3-43a6-b4d2-e6d2ead5b8a1.png)](https://www.datawrapper.de/_/SlSvZ/)
+
+# [ADD TEXT BB]
+
+## Contacts:
+Austin Beutner: 
+* Former Superintendent of Los Angeles Unified School District
+* is the proponent of the Arts and Music in Schools measure [WHIHC IS WHAT/ WILL WHAT/ WHY IS HE A GOOD SOURCE]https://calmatters.org/commentary/2022/02/arts-education-is-woefully-underfunded-in-california-schools/
+
+[CONTACT #2]:
+* text
+* text
+
+## Story Pitch:
+
+
