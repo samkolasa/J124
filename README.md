@@ -57,12 +57,24 @@ Sorted by Diversity| Sorted by Reduced Lunch
 ----|----
 [![CA chart showing a downward trend comparing the percent of the student body who are not white and the number of arts courses on average offered per school in a district.](https://user-images.githubusercontent.com/85646498/183481432-7b8eda01-dbe6-4a27-b053-7c4508be932c.png)](https://www.datawrapper.de/_/4JryB/)  |  [![A chart showing a downward trend comparing the percent of free and reduced meals and the number of arts courses on average offered per school in a district.](https://user-images.githubusercontent.com/85646498/183481428-21e0fe56-01c3-43a6-b4d2-e6d2ead5b8a1.png)](https://www.datawrapper.de/_/SlSvZ/)
 
+The trend is less obvious just from the last and first five districts in the chart, but looking at the comparisons across the entire data shows a decline in arts classes when the student body is more diverse and more people have reduced or free meals. There's a clearer relation between diveristy and the use of free or reduced meals, but the reduced meals doesn't have as strong of a correlation with arts courses. Depending of the size of the district, there could be a wide variety of differences in demographics for multiple schools that would affect the data without looking at averages. 
+
 ## Contacts:
 Austin Beutner: 
 * Former Superintendent of Los Angeles Unified School District
-* is the proponent of the Arts and Music in Schools measure 
-* https://calmatters.org/commentary/2022/02/arts-education-is-woefully-underfunded-in-california-schools/
+* is the proponent of the [California Proposition 28, Art and Music K-12 Education Funding Initiative](https://ballotpedia.org/California_Proposition_28,_Art_and_Music_K-12_Education_Funding_Initiative_(2022)#cite_note-text-1) 
+* Working to get more money put aside for schools in California specifically for art and music and "distribute a portion of the additional funding based on a local education agency's share of economically disadvantaged students"
+* (213) 241-7000 -> probably an old number... so if I can't reach him i'd email info@voteartsandmusic.org which is the group trying to get the prop passed.
+
+Denise Grande: 
+* Director of Arts Education for the Los Angeles County Arts Education Collective
+* advocates for greater arts education + has a series of grants they award each year to many LA school districts so I'd like to talk more about funding especially outside funding like grants and their role in the arts education system
+* (213) 202-5944
+
+Bretton Boyd
+* High school film and stage tech theater working in LAUSD who relies a lot on grants that he seeks out himself in order to get equipment for students to learn with.
+* (323) 829-0694
 
 ## Story Pitch:
-
+For the story I would look more into arts education in LA County. After researching Gorman Joint and how so much of the data is sourced from outside of the district, I'd like to compare public schools with charter or online schools and arts education, and get a more hollistic understanding of the resources available to kids in public schools. I'd also 
 
