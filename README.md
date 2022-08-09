@@ -59,6 +59,9 @@ Sorted by Diversity| Sorted by Reduced Lunch
 
 The trend is less obvious just from the last and first five districts in the chart, but looking at the comparisons across the entire data shows a decline in arts classes when the student body is more diverse and more people have reduced or free meals. There's a clearer relation between diveristy and the use of free or reduced meals, but the reduced meals doesn't have as strong of a correlation with arts courses. Depending of the size of the district, there could be a wide variety of differences in demographics for multiple schools that would affect the data without looking at averages. 
 
+## Story Pitch:
+For the story I would look more into arts education in LA County. After researching Gorman Joint and how so much of the data is sourced from outside of the district, I'd like to compare public schools with charter or online schools and differing levels of arts education. I'd like to look at the data agian to get a more holistic understanding of the resources available to kids in public schools. Grants for arts education interest me a lot. I'd look at a list of grants given by the [Los Angeles County Arts Education Collective](https://www.lacountyartsedcollective.org/article-sub-categories/grants) and track down where the money went specifically after it was awarded to certain districts. I'd like to talk to local teachers and arts instructors in different parts of LA County about their experiences teaching (probably public school) and what role grants play to supplement funds needed for equipment and resources for their class. The [Average Class Size Report 2018-19](https://dq.cde.ca.gov/dataquest/CourseReports/ClassResults.aspx?Filter=A&TheYear=2018-19&cTopic=Course&cChoice=CrseAvg&cLevel=County&cdscode=19000000000000&Subject=Y&AP=Y&IB=Y&CTE=Y&lNotAll=True) for LA county will only give the data by subjects, not by districts. Part of the setbacks working with this data is that different data sets from the Califronia Department of Education classify data differently. I can't access total enrollment by school district, only schools and classes which is why my focus isn't form a classes per number of students strategy. I'f I'm able to find it, I think possible inequalities about class sizes and the relationship with that to quality of education would be very interesting mapped onto the ascending and descending lists of schools.
+
 ## Contacts:
 Austin Beutner: 
 * Former Superintendent of Los Angeles Unified School District
@@ -74,7 +77,4 @@ Denise Grande:
 Bretton Boyd
 * High school film and stage tech theater working in LAUSD who relies a lot on grants that he seeks out himself in order to get equipment for students to learn with.
 * (323) 829-0694
-
-## Story Pitch:
-For the story I would look more into arts education in LA County. After researching Gorman Joint and how so much of the data is sourced from outside of the district, I'd like to compare public schools with charter or online schools and arts education, and get a more hollistic understanding of the resources available to kids in public schools. I'd also 
 
