@@ -76,5 +76,5 @@ Denise Grande:
 
 Bretton Boyd
 * High school film and stage tech theater working in LAUSD who relies a lot on grants that he seeks out himself in order to get equipment for students to learn with.
-* (323) 829-0694
+* [Number redacted following end of course]
 
